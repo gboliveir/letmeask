@@ -9,8 +9,9 @@ import logoImg from '../assets/images/logo.svg'
 import googleIconImg from '../assets/images/google-icon.svg'
 
 import { useState, FormEvent } from 'react'
-import '../styles/auth.scss'
 import { database } from '../services/firebase'
+
+import '../styles/auth.scss'
 
 export function Home() {
   const history = useHistory();
@@ -43,8 +44,8 @@ export function Home() {
       alert('Room already closed');
       return;
     }
-
-    history.push(`/rooms/${roomRef}`);
+    
+    history.push(`/rooms/${roomCode}`);
   }
 
   return(
