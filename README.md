@@ -9,18 +9,21 @@
 	🚧 🚀 Status de Andamento do Projeto: Finalizado.  🚧
 </h3>
 
-## Features
+## Funcionalidades...
 
-- [x] Login
-- [x] Sala para gerenciamento de perguntas de usuários por parte do Admin
-    - [x] Marcação para perguntas que estão sendo respondidas em tempo real
-    - [x] Marcação de perguntas já respondidas
-    - [x] Exclusão
-    - [x] Encerramento da sala
-- [x] Sala de pergunta para espectadores
-    - [x] Curtidas
-    - [x] Criação de perguntas
- elementos via JavaScript
+### para administradores e espectadores:
+- [x] Login com Google
+- [x] Entrar em sala existente
+### para administradores:
+- [x] Sala para gerenciamento de perguntas de usuários (Interface)
+- [x] Marcação para perguntas que estão sendo respondidas em tempo real
+- [x] Marcação de perguntas já respondidas
+- [x] Exclusão de perguntas
+- [x] Encerramento da sala
+### para espectadores:
+- [x] Sala para perguntas (Interface)
+- [x] Criação de perguntas
+- [x] Curtidas
 
 # 🛠 Tecnologias
 
