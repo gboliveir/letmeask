@@ -11,19 +11,19 @@
 
 ## Funcionalidades...
 
-### para administradores e espectadores:
-- [x] Login com Google
-- [x] Entrar em sala existente
-### para administradores:
+### Administradores:
 - [x] Sala para gerenciamento de perguntas de usuários (Interface)
 - [x] Marcação para perguntas que estão sendo respondidas em tempo real
 - [x] Marcação de perguntas já respondidas
 - [x] Exclusão de perguntas
 - [x] Encerramento da sala
-### para espectadores:
+### Espectadores:
 - [x] Sala para perguntas (Interface)
 - [x] Criação de perguntas
 - [x] Curtidas
+### Ambos
+- [x] Login com Google
+- [x] Entrar em sala existente
 
 # 🛠 Tecnologias
 
