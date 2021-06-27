@@ -27,7 +27,7 @@
 
 # 🛠 Tecnologias
 
-Para a construção do projeto, as seguintes Tecnologias foram utilizadas:
+Para a construção do projeto, as seguintes tecnologias foram utilizadas:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -38,7 +38,7 @@ Para a construção do projeto, as seguintes Tecnologias foram utilizadas:
 
 # 🎨 Layout
 
-## Home
+## Página de login e conexão com sala já existente
 
 <div> 
     <img 
@@ -49,7 +49,7 @@ Para a construção do projeto, as seguintes Tecnologias foram utilizadas:
     />
 </div>
 
-## Página para espectadores
+## Página para perguntas (Espectadores)
 <div> 
     <img 
         width="800px" 
@@ -81,8 +81,7 @@ Para a construção do projeto, as seguintes Tecnologias foram utilizadas:
     />
 </div>
 
-
 # Autor
-Feito por Gabriel Brito ❤️👋🏽
+Gabriel Brito 👋🏽
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-brito-260319205)](https://www.linkedin.com/in/gabriel-brito-260319205) 
 [![Gmail Badge](https://img.shields.io/badge/-gabrielbrito.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielbrito.dev@gmail.com)](mailto:gabrielbrito.dev@gmail.com)
